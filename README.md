@@ -4,6 +4,9 @@ it contain python code to count Amino acid in Amino acid sequence from given DNA
 
 With help this python code we can get know which Amino acid can be traslated from given DNA (fasta) sequence
 
+# output
+![out](https://user-images.githubusercontent.com/70704151/122752584-c53a3200-d2ae-11eb-8350-95eecde4b9aa.PNG)
+
 # steps
 1. write down the above code ,if error free
 2. capy and paste the Nucleotide fasta sequence from https://www.ncbi.nlm.nih.gov/
